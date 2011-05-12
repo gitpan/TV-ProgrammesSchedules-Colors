@@ -1,4 +1,7 @@
 Revision history for TV-ProgrammesSchedules-Colors
 
+0.02    Thu May 12 16:51:02 2011
+        - Importing Moose and its family first.
+
 0.01    Thu May 12 11:43:01 2011
         - First version, released.

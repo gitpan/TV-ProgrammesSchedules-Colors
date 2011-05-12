@@ -1,10 +1,11 @@
 package TV::ProgrammesSchedules::Colors;
 
-use Carp;
-use Data::Dumper;
-
 use Moose;
 use Moose::Util::TypeConstraints;
+use namespace::clean;
+
+use Carp;
+use Data::Dumper;
 
 use Readonly;
 use XML::Simple;
@@ -13,7 +14,6 @@ use LWP::UserAgent;
 use HTML::Entities;
 use Time::localtime;
 use HTML::TreeBuilder;
-use namespace::clean;
 
 =head1 NAME
 
@@ -21,11 +21,11 @@ TV::ProgrammesSchedules::Colors - Interface to Colors TV Programmes Schedules.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 Readonly my $BASE_URL =>
 {
     'in'   => 'http://www.colorstv.in/schedule',

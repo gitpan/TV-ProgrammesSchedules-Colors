@@ -11,6 +11,7 @@ WriteMakefile(
     PREREQ_PM     => {
         'Test::More'       => 0,
         'Readonly'         => 0,
+        'XML::Simple'      => '2.14',
         'Moose'            => '2.0006',
         'Time::localtime'  => '1.02',
         'HTTP::Request'    => '1.40',

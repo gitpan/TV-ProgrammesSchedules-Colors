@@ -1,5 +1,8 @@
 Revision history for TV-ProgrammesSchedules-Colors
 
+0.03    Fri May 13 10:04:39 2011
+        - Added XML::Simple to the pre-requisite list of modules in Build.PL and Makefile.PL.
+
 0.02    Thu May 12 16:51:02 2011
         - Importing Moose and its family first.
 

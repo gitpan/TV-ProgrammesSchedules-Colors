@@ -10,6 +10,7 @@ build_requires:
   Readonly: 0
   Test::More: 0
   Time::localtime: 1.02
+  XML::Simple: 2.14
   namespace::clean: 0.20
 configure_requires:
   Module::Build: 0.36
@@ -22,7 +23,7 @@ name: TV-ProgrammesSchedules-Colors
 provides:
   TV::ProgrammesSchedules::Colors:
     file: lib/TV/ProgrammesSchedules/Colors.pm
-    version: 0.02
+    version: 0.03
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.02
+version: 0.03

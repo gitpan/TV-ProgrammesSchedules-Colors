@@ -1,5 +1,8 @@
 Revision history for TV-ProgrammesSchedules-Colors
 
+0.04    Fri May 13 12:40:00 2011
+        - Added HTML::TreeBuilder to the pre-requisite list of modules in Build.PL and Makefile.PL.
+
 0.03    Fri May 13 10:04:39 2011
         - Added XML::Simple to the pre-requisite list of modules in Build.PL and Makefile.PL.
 

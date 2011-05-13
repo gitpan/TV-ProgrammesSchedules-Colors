@@ -21,11 +21,11 @@ TV::ProgrammesSchedules::Colors - Interface to Colors TV Programmes Schedules.
 
 =head1 VERSION
 
-Version 0.03
+Version 0.04
 
 =cut
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 Readonly my $BASE_URL =>
 {
     'in'   => 'http://www.colorstv.in/schedule',
@@ -249,6 +249,11 @@ This  program  is  distributed  in  the hope that it will be useful, but WITHOUT
 without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 See http://dev.perl.org/licenses/ for more information.
+
+=head1 DISCLAIMER
+
+This  program  is  distributed in the hope that it will be useful,  but  WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 =cut
 

@@ -21,11 +21,11 @@ TV::ProgrammesSchedules::Colors - Interface to Colors TV Programmes Schedules.
 
 =head1 VERSION
 
-Version 0.04
+Version 0.05
 
 =cut
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 Readonly my $BASE_URL =>
 {
     'in'   => 'http://www.colorstv.in/schedule',
@@ -245,8 +245,9 @@ L<http://search.cpan.org/dist/TV-ProgrammesSchedules-Colors/>
 
 Copyright 2011 Mohammad S Anwar.
 
-This  program  is  distributed  in  the hope that it will be useful, but WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+This  program  is  free  software; you can redistribute it and/or modify it under the terms of
+either:  the  GNU  General Public License as published by the Free Software Foundation; or the
+Artistic License.
 
 See http://dev.perl.org/licenses/ for more information.
 

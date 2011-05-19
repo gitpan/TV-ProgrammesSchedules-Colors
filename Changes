@@ -1,5 +1,8 @@
 Revision history for TV-ProgrammesSchedules-Colors
 
+0.05    Thu May 19 11:12:13 2011
+        - Updated text for "LICENSE AND COPYRIGHT".
+
 0.04    Fri May 13 12:40:00 2011
         - Added HTML::TreeBuilder to the pre-requisite list of modules in Build.PL and Makefile.PL.
 

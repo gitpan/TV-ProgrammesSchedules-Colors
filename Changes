@@ -1,5 +1,9 @@
 Revision history for TV-ProgrammesSchedules-Colors
 
+0.06    Tue Aug 09 11:12:13 2011
+        - Made Readonly v1.03 as minimum requirement.
+        - Prepared the distribution using the Module::Signature v0.68.
+
 0.05    Thu May 19 11:12:13 2011
         - Updated text for "LICENSE AND COPYRIGHT".
 

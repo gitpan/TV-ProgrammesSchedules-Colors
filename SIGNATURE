@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.66.
+signed via the Module::Signature module, version 0.68.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,14 +14,14 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 4079701277eccae9391ba8aca1d1b4e8f7caeda6 Build.PL
-SHA1 41b3a2526812a211d876b841707bd620644164bd Changes
+SHA1 56964c456141ae3619286eba14259c25eda8cf38 Build.PL
+SHA1 394d21afa083037a02a6984ace50962b404296f7 Changes
 SHA1 29c2217977180e22a8dd6310b1decf0f8165ab4c MANIFEST
 SHA1 7d20e4e840781030202bb045d5ab81b3fd1b68b0 MANIFEST.SKIP
-SHA1 a742b37855eda320d36e45c012c583bac350991f META.yml
-SHA1 3ec6edba30e7948dedbfd1076f1d75f6d64f9c58 Makefile.PL
+SHA1 f763d05fd4b07edc39a38e9b9081901f1033d79f META.yml
+SHA1 05e7078d0a5192f51596995d4b2f4bc0f8416b11 Makefile.PL
 SHA1 124825ff9c114f7abd188bff1a43bc84c860511a README
-SHA1 9b2db4d86166b62880a33f771a959a5a8cd6978e lib/TV/ProgrammesSchedules/Colors.pm
+SHA1 c82530b053080a988340da31deaba31ee768f537 lib/TV/ProgrammesSchedules/Colors.pm
 SHA1 9ae9f07e3f8e6314c8dbe25e904bc04a7b60fe1a t/00-load.t
 SHA1 976f9ed66991f8afdbbdf9a824db203c3f071074 t/01-unit-test.t
 SHA1 2b8ffb7e4f399af95d092743846ac8d438f2c53e t/manifest.t
@@ -29,11 +29,11 @@ SHA1 0765c9ff0cc4319f415bb08d0053b7717a8284a2 t/pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2.0.14 (MingW32)
 
-iQEcBAEBAgAGBQJN1O1eAAoJEPYcXBXhRYOhz6EH/Razz36h4wgLSdv69HefD8Sq
-ZM19sbEdij1csE6owBuCpeHcJ6hHbArYSlpdfBkUPC0dvWbUeMDmzfCkwbaiEx8F
-Xg5JtIdwOGbt1rfPaVJ0N9ksbIZrvArl8UkY4yMM6lL2FcR4yYprBRc64/21hOdQ
-jMAuAqTSfQCnXJixlk+Z+gFwWP3zSmDjGcnvPe6fxAn7s2/63NfYGX0OXR+09QOC
-BPZuQBQQLt3P6tNL4+PcPvMKAKSN8kzLLj3eJiOEg3+pXNJyLde2rKCg+zuNtX57
-lAqiOs1wpmBzRSxgrLDoi3OAAMIkm0qnZEwlARTz6/7yGYDMB3Sdm8PmYl4YNck=
-=V1DB
+iQEcBAEBAgAGBQJOQQl1AAoJEPYcXBXhRYOhzwcH/1VV4WJO1DvnvbE3qshHliQQ
+K36lsqis78jhv7dUrtbNASFyn9NVfF7XXC/IL3wzdnu03gyTHACnemzEqsVMwbY2
+U0nsWKUGH+G86ckpK6gENWNjXjiwdvWtKhZMmRJ4fzZ5TXBgtSrHyL9XmRhVlv/G
+6ofXaYlpzKr3KWGpQPoheCYtcSVW7V7/HkcInAowgYb5UesiUru+Y8RnaUmLDqDM
+V7JLINh/WLUv0/17odxpACekQGR2j/pwZgPzmdQUmOg+ilDVJVmFSDc4+pLvCYMB
+YSLbeA4GFItiiZSgPCK3NTWaFgXTGRuClJ19aQWqFtBI93kszqFjMGf1vDQYuwA=
+=H21K
 -----END PGP SIGNATURE-----

@@ -10,7 +10,7 @@ WriteMakefile(
     clean         => { FILES => 'TV-ProgrammesSchedules-Colors-*' },
     PREREQ_PM     => {
         'Test::More'        => 0,
-        'Readonly'          => 0,
+        'Readonly'          => '1.03',
         'HTML::TreeBuilder' => '3.13',
         'XML::Simple'       => '2.14',
         'Moose'             => '2.0006',
